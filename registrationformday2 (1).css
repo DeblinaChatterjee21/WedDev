@@ -1,0 +1,69 @@
+body {
+  margin: 20px;
+  padding:50x;
+}
+#mainbody {
+  background-color:bisque;
+  height:420px;
+  width:500px;
+  border:50px;
+  border-radius:20px;
+  margin-left:130px;
+     }
+.heading{
+  border-top:20px;
+  margin-top:20px;
+  padding-top:20px;
+  text-align:center;
+}
+#form{
+  margin:20px;
+  padding-left:21px;
+  font-size:18px;
+}
+#fname{
+  margin:20px;
+  width:75px;
+  height:25px;
+  border:none;
+  border-radius:7px;
+}
+#lname{
+   margin:20px;
+  width:75px;
+   height:25px;
+  border:none;
+  border-radius:7px;
+}
+#lastnamestyle{
+  margin:10px;
+}
+#emails{
+  margin:20px;
+  width:329px;
+   height:25px;
+  border:none;
+  border-radius:7px;
+}
+#passwords{
+  margin:20px;
+  width:306px;
+   height:25px;
+  border:none;
+  border-radius:7px;
+}
+#submit{
+  text-align:center;
+}
+#submits{
+  border-radius:7px;
+  border:none;
+  height:25px;
+  width:200px;
+}
+#submits:hover{
+  color:red;
+  background-color:yellow;
+}
+  
+  

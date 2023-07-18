@@ -1,0 +1,14 @@
+body {
+  margin: 20px;
+}
+ #mainbody{
+   background-color:lavender;
+}
+#head{
+  text-align:center;
+}
+#content{
+  margin:10px;
+  padding-left:10px;
+  padding-bottom:10px;
+}
