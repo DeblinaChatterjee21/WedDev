@@ -3,7 +3,7 @@ body {
   padding:50x;
 }
 #mainbody {
-  background-color:bisque;
+  background-color:lightpink;
   height:420px;
   width:500px;
   border:50px;
@@ -62,8 +62,8 @@ body {
   width:200px;
 }
 #submits:hover{
-  color:red;
-  background-color:yellow;
+  color:lightblue;
+  background-color:cyan;
 }
   
   
