@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+  <title>DOCUMENT</title>
+</head>
+
+<body>
+  <div id="mainbody">
+  <h1 class="heading">
+    REGISTRATION FORM
+  </h1>
+    <form id="form">
+  <p>
+    
+   <label>First Name</label>
+    <input id="fname" type="text" placeholder="First Name.." required>
+    
+     <label id="lastnamestyle">Last Name</label>
+    <input id="lname" type="text" placeholder="last Name.." required>
+      <br>
+       <div id="email">
+   <label>Email</label>
+    <input id="emails" type="email" placeholder="Email id.." required>
+      </div>
+         <br>
+         <div id="password">
+   <label>Password</label>
+    <input id="passwords" type="password" placeholder="Password.." required>
+      </div> 
+         <br>  
+        <div id="submit">
+    <input id="submits" type="Submit" >
+      </div> 
+  </p>
+  </div>
+  </form>                       
+  <script src="script.js"></script>
+</body>
+
+</html>
+

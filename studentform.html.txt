@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+  <title>Form</title>
+    
+</head>
+
+<body>
+  <div id="mainbody">
+  <h1 id="head">
+   STUDENT FORM
+  </h1>
+  <div id="content">
+    <label>Name: </label>
+    <input type="text" placeholder="ENTER YOUR NAME">
+      <br><br>
+     <label>ROLL NUMBER: </label>
+    <input tyoe="number" placeholder="ENTER YOUR ROLL">
+      <br><br>
+      <label>DEPARTMENT: </label>
+    <input tyoe="text" placeholder="ENTER DEPARTMENT">
+      <br><br>
+      <label>EMAIL ID: </label>
+    <input tyoe="text" placeholder="ENTER EMAILID">
+      <br><br>
+      <label>TYPE OF STUDENT:</label>
+      <br>
+        REGULAR<input type="radio" name="student">
+        LATERAL<input type="radio" name="student">
+        <br><br>
+        <label>SUBJECTS LIKED:</label><br>
+         COMPUTER<input type="checkbox" name="subject1"> 
+          MATHS<input type="checkbox" name="subject2">
+          PHYSICS<input type="checkbox" name="subject3">
+          BIOLOGY<input type="checkbox" name="subject4">
+       
+  </div>
+          </div>
+  <script src="script.js"></script>
+</body>
+
+</html>
